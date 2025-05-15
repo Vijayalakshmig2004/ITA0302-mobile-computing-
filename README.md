@@ -18,10 +18,6 @@ In this project We will Develop a real-time secure chat application from scratch
 -	Tkinter library for UI
 -	Socket library for real-time message exchange
 
-
-## System Overview:
-![System Overview](https://github.com/AhmedIssa11/Real-Time-Secure-Chat-Application/blob/main/project_overview.png)
-
 ## Installation
 Open terminal and type the following command
 ```
